@@ -1,6 +1,6 @@
 # Ejercicios_Python
 
-1. hacer un programa en el cual el usuario ingrese un número y se le devuelva la suma de todos los números desde 1 hasta el número q ungresó
+1. hacer un programa en el cual el usuario ingrese un número y se le devuelva la suma de todos los números desde 1 hasta el número q ingresó
 
 **ejemplo:** si el usuario ingresa 5 se le retornará 1+2+3+4+5 = 15
 
